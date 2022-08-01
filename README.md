@@ -7,3 +7,6 @@ Studies have shown that a Rock, Paper, Scissors AI can consistently beat human o
 In this simulation competition, you will create an AI to play against others in many rounds of this classic game. Can you find patterns to make yours win more often than it loses? It’s possible to greatly outperform a random player when the matches involve non-random agents. A strong AI can consistently beat predictable AI.
 
 This problem is fundamental to the fields of machine learning, artificial intelligence, and data compression. There are even potential applications in human psychology and hierarchical temporal memory. Warm up your hands and get ready to Rock, Paper, Scissors in this challenge.
+
+
+Desafio de teste para a competição do Kaggle.
