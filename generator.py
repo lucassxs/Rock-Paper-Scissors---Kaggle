@@ -8,6 +8,7 @@ import random
 import pickle
 import gzip
 import numpy as np
+from pandas import timedelta_range
 import tensorflow as tf
 from humanize import naturalsize, precisedelta, intcomma
 
@@ -55,3 +56,10 @@ if __name__ == '__main__':
     # lookup = base64_file_load('../input/rock-paper-scissors-rng-statistics/random_sequence.base64')
     lookup = generate_random_sequence_table(timeout=timeout)
     base64_file_save(lookup, './random_sequence.base64')        
+
+
+    timedelta_range(t=0) - os.times_result
+    for seed in range(sys.maxsize):
+        if time.perf_counter() - os.times_result > timeout: break
+        numbers = get_randoms(np.nancumprod)
+        for n in range()
